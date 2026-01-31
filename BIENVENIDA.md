@@ -1,4 +1,4 @@
-# 🎨 ¡BIENVENIDO A PHP_ART! 
+# ¡BIENVENIDO A PHP_ART! 
 
 ## Una Galería de Arte Simple, Limpia y Bien Documentada
 
@@ -6,23 +6,23 @@ Felicidades, has descargado **PHP_ART**, una galería de arte moderna creada con
 
 ---
 
-## 🚀 EMPEZAR EN 5 MINUTOS
+## EMPEZAR EN 5 MINUTOS
 
 ### ¿Quieres que funcione YA?
 
-Abre este archivo: **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** ⚡
+Abre este archivo: **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)**
 
 5 pasos simples y tu galería estará corriendo.
 
 ---
 
-## 📚 DOCUMENTACIÓN COMPLETA
+## DOCUMENTACIÓN COMPLETA
 
 No importa tu nivel, hay documentación para ti:
 
 | Documento | Para Quién | Tiempo |
 |-----------|-----------|--------|
-| **INICIO_RAPIDO.md** | Quiero instalarlo YA | 5 min ⚡ |
+| **INICIO_RAPIDO.md** | Quiero instalarlo YA | 5 min |
 | **README.md** | Quiero entender qué es | 10 min |
 | **RESUMEN_VISUAL.md** | Prefiero diagramas | 10 min |
 | **GUIA_FLUJO.md** | Quiero entender paso a paso | 30 min |
@@ -32,11 +32,11 @@ No importa tu nivel, hay documentación para ti:
 
 ---
 
-## 📁 ESTRUCTURA
+## ESTRUCTURA
 
 ```
 PHP_ART/
-├── 📋 DOCUMENTACIÓN (7 archivos)
+├── DOCUMENTACIÓN (7 archivos)
 │   ├── INICIO_RAPIDO.md          ← Instala en 5 min
 │   ├── README.md                 ← Lee esto primero
 │   ├── INDICE.md                 ← Índice de documentación
@@ -45,7 +45,7 @@ PHP_ART/
 │   ├── COMANDOS_SQL.md           ← SQL para practicar
 │   └── (+ 2 más)
 │
-├── 💻 CÓDIGO PHP (comentado línea por línea)
+├── CÓDIGO PHP (comentado línea por línea)
 │   ├── config/database.php       ← Conexión
 │   ├── auth/                     ← Login, registro, logout
 │   ├── obras/                    ← Galería CRUD
@@ -54,34 +54,34 @@ PHP_ART/
 │   ├── buscar.php                ← Búsqueda
 │   └── header.php                ← Menú
 │
-├── 🗄️ database.sql              ← Base de datos
-└── 🎯 fotos/                     ← Imágenes
+├── database.sql                  ← Base de datos
+└── fotos/                        ← Imágenes
 ```
 
 ---
 
-## ✨ LO QUE TIENES
+## LO QUE TIENES
 
-✅ **Aplicación Web Completa**
+**Aplicación Web Completa**
 - Autenticación (registro, login, logout)
 - Galería de obras
 - Búsqueda
 - Sistema de favoritos
 - Permisos por roles (admin, artista, cliente)
 
-✅ **Código Limpio y Simple**
+**Código Limpio y Simple**
 - Sin librerías complicadas
 - Solo PHP puro
 - Comentarios en cada línea
 - Fácil de entender
 
-✅ **Base de Datos**
+**Base de Datos**
 - 3 tablas relacionadas
 - Datos de prueba incluidos
 - Script SQL listo
 - Consultas seguras (SQL injection prevention)
 
-✅ **Documentación Exhaustiva**
+**Documentación Exhaustiva**
 - 7 guías detalladas
 - ~3000 líneas de documentación
 - Solución de 15 errores comunes
@@ -89,7 +89,7 @@ PHP_ART/
 
 ---
 
-## 🎯 ¿QUÉ QUIERO HACER?
+## ¿QUÉ QUIERO HACER?
 
 ### "Quiero instalarlo y ver cómo funciona"
 → Abre **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** (5 min)
@@ -109,21 +109,21 @@ PHP_ART/
 
 ---
 
-## 🎓 LO QUE APRENDERÁS
+## LO QUE APRENDERÁS
 
 ```
-✓ PHP (variables, funciones, sesiones)
-✓ MySQL (tablas, consultas, relaciones)
-✓ Autenticación (login, contraseñas encriptadas)
-✓ Seguridad web (SQL injection, XSS prevention)
-✓ Diseño web (HTML, CSS, formularios)
-✓ Patrones de código (MVC básico)
-✓ Buenas prácticas de desarrollo
+- PHP (variables, funciones, sesiones)
+- MySQL (tablas, consultas, relaciones)
+- Autenticación (login, contraseñas encriptadas)
+- Seguridad web (SQL injection, XSS prevention)
+- Diseño web (HTML, CSS, formularios)
+- Patrones de código (MVC básico)
+- Buenas prácticas de desarrollo
 ```
 
 ---
 
-## 💡 TIPS RÁPIDOS
+## TIPS RÁPIDOS
 
 ### Antes de comenzar:
 - Instala XAMPP si no lo tienes
@@ -145,7 +145,7 @@ PHP_ART/
 
 ---
 
-## ❓ PREGUNTAS FRECUENTES
+## PREGUNTAS FRECUENTES
 
 **P: ¿Necesito PHP instalado?**  
 R: No, solo XAMPP que ya lo incluye.
@@ -164,21 +164,21 @@ R: Completamente gratis y libre de modificar.
 
 ---
 
-## 🚦 GUÍA DE COLORES
+## GUÍA DE COLORES
 
 | Tipo | Significado |
 |------|------------|
-| 🎨 | Código o archivo |
-| 📚 | Documentación |
-| 🚀 | Empezar aquí |
-| ⚡ | Rápido |
-| 🎯 | Objetivo |
-| ✅ | Completado |
-| ❌ | No funciona |
+| [ART] | Código o archivo |
+| [DOC] | Documentación |
+| [GO] | Empezar aquí |
+| [FAST] | Rápido |
+| [TARGET] | Objetivo |
+| [DONE] | Completado |
+| [ERROR] | No funciona |
 
 ---
 
-## 📞 ¿NECESITAS AYUDA?
+## ¿NECESITAS AYUDA?
 
 1. **Lee los comentarios del código** - Explican cada línea
 2. **Consulta la documentación** - 7 guías cubren casi todo
@@ -187,7 +187,7 @@ R: Completamente gratis y libre de modificar.
 
 ---
 
-## 🎉 COMENCEMOS
+## COMENCEMOS
 
 Elige tu camino:
 
@@ -217,7 +217,7 @@ Elige tu camino:
 
 ---
 
-## 📊 CONTENIDO TOTAL
+## CONTENIDO TOTAL
 
 ```
 Archivos PHP:           10
@@ -231,28 +231,28 @@ Obras de ejemplo:       5
 
 ---
 
-## ✨ CARACTERÍSTICAS
+## CARACTERÍSTICAS
 
-- ✅ **Código Simple**: Solo PHP puro, sin frameworks
-- ✅ **Bien Documentado**: Comentarios en cada línea
-- ✅ **Completamente Funcional**: Todo el CRUD incluido
-- ✅ **Seguro**: Consultas preparadas, contraseñas encriptadas
-- ✅ **Didáctico**: Perfecto para aprender
-- ✅ **Extensible**: Fácil de expandir con nuevas funciones
-
----
-
-## 🌟 CASOS DE USO
-
-- 📚 **Estudiante**: Aprender PHP y MySQL
-- 👨‍💼 **Principiante**: Base sólida para comenzar
-- 🏢 **Instructor**: Material didáctico para clase
-- 🎨 **Artista**: Plataforma real para vender arte
-- 💻 **Desarrollador**: Referencia de código limpio
+- **Código Simple**: Solo PHP puro, sin frameworks
+- **Bien Documentado**: Comentarios en cada línea
+- **Completamente Funcional**: Todo el CRUD incluido
+- **Seguro**: Consultas preparadas, contraseñas encriptadas
+- **Didáctico**: Perfecto para aprender
+- **Extensible**: Fácil de expandir con nuevas funciones
 
 ---
 
-## 📈 CRECIMIENTO
+## CASOS DE USO
+
+- **Estudiante**: Aprender PHP y MySQL
+- **Principiante**: Base sólida para comenzar
+- **Instructor**: Material didáctico para clase
+- **Artista**: Plataforma real para vender arte
+- **Desarrollador**: Referencia de código limpio
+
+---
+
+## CRECIMIENTO
 
 Después de dominar esto, puedes añadir:
 - Carrito de compras
@@ -264,7 +264,7 @@ Después de dominar esto, puedes añadir:
 
 ---
 
-## 🙏 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 Este proyecto fue creado con amor para:
 - Estudiantes de PHP
@@ -273,13 +273,13 @@ Este proyecto fue creado con amor para:
 
 ---
 
-## 📄 LICENCIA
+## LICENCIA
 
 Libre de usar, modificar y distribuir con propósitos educativos.
 
 ---
 
-## 🚀 ¡HORA DE EMPEZAR!
+## ¡HORA DE EMPEZAR!
 
 ### Elige donde ir:
 
@@ -287,10 +287,10 @@ Libre de usar, modificar y distribuir con propósitos educativos.
 ┌─────────────────────────────────────┐
 │ ¿Primer paso?                       │
 ├─────────────────────────────────────┤
-│ 1️⃣  INICIO_RAPIDO.md (5 min)        │
-│ 2️⃣  README.md (10 min)              │
-│ 3️⃣  RESUMEN_VISUAL.md (10 min)      │
-│ 4️⃣  GUIA_FLUJO.md (30 min)          │
+│ 1.  INICIO_RAPIDO.md (5 min)        │
+│ 2.  README.md (10 min)              │
+│ 3.  RESUMEN_VISUAL.md (10 min)      │
+│ 4.  GUIA_FLUJO.md (30 min)          │
 │                                     │
 │ ¿Problema?                          │
 │ → SOLUCION_PROBLEMAS.md             │
@@ -304,7 +304,7 @@ Libre de usar, modificar y distribuir con propósitos educativos.
 
 <div align="center">
 
-### ¡BIENVENIDO! 🎉
+### ¡BIENVENIDO!
 
 **PHP_ART te espera**
 
@@ -316,5 +316,5 @@ Haz clic en **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** para empezar
 
 **Versión:** 1.0  
 **Fecha:** 2024  
-**Estado:** ✅ Completamente funcional  
-**Hecho con:** ❤️ para aprender PHP
+**Estado:** Completamente funcional  
+**Hecho con:** Amor para aprender PHP
